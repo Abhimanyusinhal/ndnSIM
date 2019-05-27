@@ -1,5 +1,22 @@
 # ndnSIM
 A basic Query solution in Ubuntu18.04 ndnSIM 2.7 Installation process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 When I followed the ndnsim website however I received syntax error after running ./waf command as follows:
 Traceback (most recent call last):
   File "<string>", line 3, in <module>
